@@ -1,6 +1,6 @@
 ## Hi, I'm Vach
 
-  <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/6c6d9d81-37c9-4b0a-8c99-0997c5212e8e"  height="400" width="450"/>
+  <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/6c6d9d81-37c9-4b0a-8c99-0997c5212e8e"  height="300" width="450"/>
 
 **About Me:**
 
