@@ -7,7 +7,6 @@
 - 👨🏻‍💻 I'm a quadruple major at Rutgers University
 - 🌱 I'm learning about [context rot](https://research.trychroma.com/context-rot)
 - 🤔 I'm interested in AI safety & software engineering
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vachagan-melikian/)
 
 **Experience:**
 - [<img src="https://raw.githubusercontent.com/swiftyspiffy/swiftyspiffy/main/assets/twitch.svg" alt="Twitch logo" width="16" height="16" />][twitch] **[Twitch.tv][twitch]**, Android
